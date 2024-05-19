@@ -1,5 +1,4 @@
 version: "3.7"
-name: lms
 services:
   mariadb:
     image: mariadb:10.6
